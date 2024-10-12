@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on <strong>a Resume Builder</strong> <br>
  
- 🌱 I’m currently learning <strong>AWS</strong> <br><br>
+ 🌱 I’m currently learning <strong>AWS</strong> <br>
 
  🌐 Check out my portfolio:  
  <a href="https://mohammed-sameer.netify.app/" target="_blank">https://mohammed-sameer.netify.app/</a>
