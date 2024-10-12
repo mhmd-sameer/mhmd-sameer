@@ -43,11 +43,11 @@
 
 <h3 align="center">GitHub Stats</h3>
 
-<p>
+<p align="center>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmd-sameer&show_icons=true&locale=en&layout=compact&theme=dark" alt="mhmd-sameer" />
 </p>
 
-<p>
+<p align="center">
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmd-sameer&theme=black-ice&stroke=0000&background=000000" alt="mhmd-sameer" />
 </p>
 
