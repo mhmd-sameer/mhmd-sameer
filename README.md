@@ -37,10 +37,25 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git" />
+    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,figma,tailwind,git,postman" />
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c,java,mysql,flask" /><br>
 </div>
 
+<h3 align="center">GitHub Stats</h3>
+
+<p>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmd-sameer&show_icons=true&locale=en&layout=compact&theme=dark" alt="mhmd-sameer" />
+</p>
+
+<p>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmd-sameer&theme=black-ice&stroke=0000&background=000000" alt="mhmd-sameer" />
+</p>
+
+<h3 align="center">LeetCode Stats</h3>
+
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/_sameei_?theme=dark&font=Poppins&ext=contest" alt="_sameei_ LeetCode Stats"/>
+</p>
 <br/>
 <hr/>
 
