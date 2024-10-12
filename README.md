@@ -15,7 +15,7 @@
  🌱 I’m currently learning <strong>AWS</strong> <br>
 
  🌐 Check out my portfolio:  
- <a href="https://mohammed-sameer.netify.app/" target="_blank">https://mohammed-sameer.netify.app/</a>
+ <a href="https://mohammed-sameer.netlify.app/" target="_blank">Sameer's Portfolio</a>
 
 </div>
  
