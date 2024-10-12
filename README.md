@@ -43,7 +43,7 @@
 
 <h3 align="center">GitHub Stats</h3>
 
-<p align="center>
+<p align="center">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmd-sameer&show_icons=true&locale=en&layout=compact&theme=dark" alt="mhmd-sameer" />
 </p>
 
