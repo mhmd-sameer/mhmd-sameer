@@ -12,7 +12,7 @@
  
  🔭 I’m currently working on <strong>Artificial Intelligence and Data Science</strong> <br>
  
- 🌱 I’m currently learning <strong>AWS</strong> <br>
+ 🌱 I’m intrested in <strong>Full Stack, Web Development</strong> <br>
 
  🌐 Check out my portfolio:  
  <a href="https://mohammed-sameer.netlify.app/" target="_blank">Sameer's Portfolio</a>
