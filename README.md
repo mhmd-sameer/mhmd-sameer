@@ -10,7 +10,7 @@
 
 <div align="center">
  
- 🔭 I’m currently working on <strong>AI powered Resume Builder</strong> <br>
+ 🔭 I’m currently working on <strong>Artificial Intelligence and Data Science</strong> <br>
  
  🌱 I’m currently learning <strong>AWS</strong> <br>
 
