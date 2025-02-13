@@ -41,32 +41,6 @@
     <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,express,mongodb,c,java,mysql,flask" /><br>
 </div>
 
-<h3 align="center">GitHub Stats</h3>
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mhmd-sameer&show_icons=true&locale=en&layout=compact&theme=dark" alt="mhmd-sameer" />
-</p>
-
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mhmd-sameer&theme=black-ice&stroke=0000&background=000000" alt="mhmd-sameer" />
-</p>
-
-<h3 align="center">LeetCode Stats</h3>
-
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/_sameei_?theme=dark&font=Poppins&ext=contest" alt="_sameei_ LeetCode Stats"/>
-</p>
-<br/>
-<hr/>
-
-
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
 
 <hr/>
 
@@ -79,8 +53,16 @@
   <img width=325 align="center" src="https://github-readme-stats-salesp07.vercel.app/api/top-langs/?username=salesp07&hide=HTML&langs_count=8&layout=compact&theme=react&border_radius=10&size_weight=0.5&count_weight=0.5&exclude_repo=github-readme-stats" alt="top langs" />
 </div>
 
-<br/><br/>
+<h3 align="center">LeetCode Stats</h3>
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/_sameei_?theme=dark&font=Poppins&ext=contest" alt="_sameei_ LeetCode Stats"/>
+</p>
+<br/>
+<hr/>
+
+
+<br/><br/>
 
 <hr/>
 
