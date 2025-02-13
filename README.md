@@ -59,12 +59,7 @@
   <img src="https://leetcard.jacoblin.cool/_sameei_?theme=dark&font=Poppins&ext=contest" alt="_sameei_ LeetCode Stats"/>
 </p>
 <br/>
-<hr/>
 
-
-<br/><br/>
-
-<hr/>
 
 <br/>
 
